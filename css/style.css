@@ -2963,6 +2963,21 @@ a.icon-box-4:hover i { color: #fff; }
 	top: 4px;
  }
 
+ .button.social-btn2 i {
+	font-size: 21px;
+	position: absolute;
+	left: 19px;
+	top: 13px;
+}
+
+.button.social-btn2 {
+ 	padding-left: 50px;
+ 	position: relative;
+	background-color: #1DA1F2;
+	top: 4px;
+ }
+
+
 
 #footer a.button { margin-top: 12px; }
 #footer a.button:hover { background-color: #fff; color: #333; }
@@ -7956,6 +7971,7 @@ a.button {
 a.button.medium {
 	font-size: 13px;
 	padding: 12px 28px;
+	margin-top: 35px;
 }
 
 input[type="button"].button.fw,

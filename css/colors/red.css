@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------- */
-/* Red #e32b2b
+/* Red #EF4036
 ---------------------------------------------------------------------- */
 a,
 .header-widget li i,
@@ -33,7 +33,7 @@ input[type="submit"].border,
 .style-2 .ui-accordion .ui-accordion-header-active,
 .menu  li.search a:hover,
 .tabs-nav li.active a {
-	color: #e32b2b;
+	color: #EF4036;
 }
 
 body,
@@ -59,7 +59,7 @@ input[type="submit"].border:hover,
 .style-3 .tabs-nav li.active a,
 .ui-accordion .ui-accordion-header-active:hover,
 .ui-accordion .ui-accordion-header-active {
-	border-color: #e32b2b;
+	border-color: #EF4036;
 }
 
 .qtyplus:hover,
@@ -71,7 +71,7 @@ input[type="submit"].border:hover,
 .flex-next:hover,
 a.button.border::before,
 .hover-border {
-    background: #e32b2b;
+    background: #EF4036;
 }
 
 .icon-box-1.rounded:hover i,
@@ -79,7 +79,7 @@ a.button.border::before,
 .icon-box-3.rounded:hover i,
 .menu ul .sfHover li a:hover,
 .mega a:hover {
-	background-color: #e32b2b !important;
+	background-color: #EF4036 !important;
 }
 
 a.button.border:hover,
@@ -147,9 +147,9 @@ table.basic-table th,
 .rsDefaultInv .rsThumb.rsNavSelected .rsTmb:before,
 .main-color-bg,
 mark.color {
-	background-color: #e32b2b;
+	background-color: #EF4036;
 }
 
-.counter-boxes-inside-parallax .counter-box-icon i { color: #e32b2b !important; }
-@media (max-width: 991px) { .tabs-nav li.active a { background-color: #e32b2b; } }
-#loader { border-top-color: #e32b2b; }
+.counter-boxes-inside-parallax .counter-box-icon i { color: #EF4036 !important; }
+@media (max-width: 991px) { .tabs-nav li.active a { background-color: #EF4036; } }
+#loader { border-top-color: #EF4036; }

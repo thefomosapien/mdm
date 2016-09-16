@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------- */
-/* Blue #0767c9
+/* Blue #00B0E4
 ---------------------------------------------------------------------- */
 a,
 .header-widget li i,
@@ -33,7 +33,7 @@ input[type="submit"].border,
 .style-2 .ui-accordion .ui-accordion-header-active,
 .menu  li.search a:hover,
 .tabs-nav li.active a {
-	color: #0767c9;
+	color: #00B0E4;
 }
 
 body,
@@ -59,7 +59,7 @@ input[type="submit"].border:hover,
 .style-3 .tabs-nav li.active a,
 .ui-accordion .ui-accordion-header-active:hover,
 .ui-accordion .ui-accordion-header-active {
-	border-color: #0767c9;
+	border-color: #00B0E4;
 }
 
 .qtyplus:hover,
@@ -71,7 +71,7 @@ input[type="submit"].border:hover,
 .flex-next:hover,
 a.button.border::before,
 .hover-border {
-    background: #0767c9;
+    background: #00B0E4;
 }
 
 .icon-box-1.rounded:hover i,
@@ -79,7 +79,7 @@ a.button.border::before,
 .icon-box-3.rounded:hover i,
 .menu ul .sfHover li a:hover,
 .mega a:hover {
-	background-color: #0767c9 !important;
+	background-color: #00B0E4 !important;
 }
 
 a.button.border:hover,
@@ -147,9 +147,9 @@ table.basic-table th,
 .rsDefaultInv .rsThumb.rsNavSelected .rsTmb:before,
 .main-color-bg,
 mark.color {
-	background-color: #0767c9;
+	background-color: #00B0E4;
 }
 
-.counter-boxes-inside-parallax .counter-box-icon i { color: #0767c9 !important; }
-@media (max-width: 991px) { .tabs-nav li.active a { background-color: #0767c9; } }
-#loader { border-top-color: #0767c9; }
+.counter-boxes-inside-parallax .counter-box-icon i { color: #00B0E4 !important; }
+@media (max-width: 991px) { .tabs-nav li.active a { background-color: #00B0E4; } }
+#loader { border-top-color: #00B0E4; }
